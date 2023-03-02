@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Edet John</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-- 🔭 I’m currently working on Renovating [The Federal University of Technology, Akure website](futa.edu)
+- 🔭 I’m currently working on building projects for my portfolio
 
 - 🌱 I’m currently learning **React Js**
 
-- 🤝 I’m looking for help with **JavaScript API Calling**
-
-- 💬 Ask me about **Anything on JavaScript DOM**
+- 🤝 I’m looking for help with get my first internship
 
 - 📫 How to reach me **edetjohn213@gmail.com**
-
-- ⚡ Fun fact **I actually started coding cos my friends always call me a phone wizard just because I was able to solve most of their mobile problems for free, instead of paying a phone guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
