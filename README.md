@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 🤝 I’m looking for help with getting my first internship
+- 🤝 I’m looking forward to work with other junior devs like me
 
 - 📫 How to reach me **edetjohn213@gmail.com**
 
